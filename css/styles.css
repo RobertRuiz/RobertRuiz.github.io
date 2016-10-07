@@ -34,7 +34,7 @@ hr.light {
 }
 
 a {
-    color: #9c27b0;
+    color: #337ab7;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -42,7 +42,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #9c27c1;
+    color: #337ab7;
     outline: 0;
 }
 
@@ -263,11 +263,11 @@ header .header-content .inner p {
 
 #video-background {
   position: absolute;
-  right: 0; 
+  right: 0;
   bottom: 0;
-  min-width: 100%; 
+  min-width: 100%;
   min-height: 100%;
-  width: auto; 
+  width: auto;
   height: auto;
   z-index: 1;
 }
@@ -284,7 +284,7 @@ footer {
     .icon-lg {
         font-size: 80px;
     }
-    
+
     header {
         min-height: 100%;
     }
@@ -314,7 +314,7 @@ footer {
         max-width: 80%;
         font-size: 18px;
     }
-    
+
     section {
         min-height: 600px;
         padding: 100px 0;
